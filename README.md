@@ -1,7 +1,8 @@
 mean-stack
 ==========
-Full pack:
+<h1>Full pack:</h1>
+<br>
  -nodeJs
  -AngularJS
- -Express(stylu, jade)
+ -Express(stylus, jade)
  -Mongodb
